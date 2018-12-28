@@ -1,12 +1,12 @@
 {
-  "_class": "rectangle",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F71767A5-AA23-4CFD-95FA-D039D9891EEA",
-  "edited": false,
+  "do_objectID": "C63BC3F3-14EB-4BF0-9E26-6822C4DBA976",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2321E291-3BA9-4EC5-B657-412CE95914FF",
+    "do_objectID": "6054F827-8287-4B02-BED9-23997E42A1A1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,94 +14,80 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DD322F76-001C-4A1B-8374-FA59529078E3",
-    "height": 434,
-    "width": 320,
+    "do_objectID": "66870A46-063E-46A8-9801-8D06FDAD2EE9",
+    "height": 1,
+    "width": 1440,
     "x": 0,
-    "y": 0
+    "y": 181
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Line Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
+      "curveFrom": "{-1.7359281450573452e-18, 2.0000000000000044}",
       "curveMode": 1,
-      "curveTo": "{0, 0}",
+      "curveTo": "{-1.7359281450573452e-18, 2.0000000000000044}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0}"
+      "point": "{0, 0.5}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
+      "curveFrom": "{-1.7359281450573452e-18, 2.0000000000000044}",
       "curveMode": 1,
-      "curveTo": "{1, 0}",
+      "curveTo": "{-1.7359281450573452e-18, 2.0000000000000044}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{1, 0.5}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E966FC8B-36F3-44EE-BA49-201D3299D1E4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "CBADEB61-7BD2-4D9A-B266-2770CFC1424B",
+      "isEnabled": false,
+      "lineCapStyle": 2,
+      "lineJoinStyle": 0
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "alpha": 0.34,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
       }
     ],
-    "do_objectID": "1CABAAB3-74F1-4158-A0E9-8EB310BC0402",
+    "do_objectID": "9C0D218B-0D0C-4578-BDE1-30E47C05EFAA",
     "endMarkerType": 0,
     "fills": [
       {
@@ -109,12 +95,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1882352941176471,
-          "green": 0.1882352941176471,
-          "red": 0.1882352941176471
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

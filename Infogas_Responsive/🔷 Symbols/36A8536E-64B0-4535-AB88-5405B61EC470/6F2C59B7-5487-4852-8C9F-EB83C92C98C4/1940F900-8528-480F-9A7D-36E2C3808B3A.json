@@ -16,33 +16,31 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
-              "size": 16
+              "name": "Poppins-SemiBold",
+              "size": 12
             }
           },
-          "kerning": 0.5333334,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 23,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Políticas de privacidad"
+    "string": "(01)  500-5157"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "13576793-E7D1-40B8-87B6-D0A08D8D56C3",
+  "do_objectID": "1940F900-8528-480F-9A7D-36E2C3808B3A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6058FC03-DFD6-4A06-A0DF-EA702BDB958E",
+    "do_objectID": "FF86598F-F1E6-4CDA-8B16-8B1787252189",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "40ACBD0F-5141-4002-8216-63D3C017E5B8",
-    "height": 16,
-    "width": 192,
-    "x": 1047,
-    "y": 29
+    "do_objectID": "1EF08760-AE59-45E6-8159-82368F4EE073",
+    "height": 17,
+    "width": 81,
+    "x": 0,
+    "y": 32
   },
-  "glyphBounds": "{{1, 2}, {189, 16}}",
+  "glyphBounds": "{{0, 1}, {81, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,22 +66,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "titulo copy 19",
+  "name": "titulo copy 17",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "45F2DA85-FE89-445E-BF45-BF4AB7CE8DB6",
+  "sharedStyleID": "64010E0C-B582-4988-9EA0-CF9F1E48EABD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B85624C5-4C71-48FE-8CFC-291B23C94A9B",
+    "do_objectID": "CB0DCE60-978B-4746-9537-AEDD98CD5ABE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A0E109B6-118D-42D5-901D-F73DC5281A0D",
+      "do_objectID": "71EF3E91-97B7-44CA-9ABA-DECF5B50FCBE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,17 +93,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
-            "size": 16
+            "name": "Poppins-SemiBold",
+            "size": 12
           }
         },
-        "kerning": 0.5333334,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

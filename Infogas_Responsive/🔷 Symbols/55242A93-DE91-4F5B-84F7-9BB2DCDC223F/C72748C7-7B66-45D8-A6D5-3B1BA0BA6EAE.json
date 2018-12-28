@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Poppins-Medium",
-              "size": 10
+              "size": 16
             }
           },
-          "kerning": 0.07142857,
+          "kerning": 0.1142857,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "FF94FBE0-0534-445F-BDEC-AB3C44F8A0AF",
     "height": 24,
-    "width": 49,
+    "width": 77,
     "x": 24,
-    "y": 9
+    "y": 10
   },
-  "glyphBounds": "{{0, 9}, {48, 9}}",
+  "glyphBounds": "{{0, 7}, {76, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,10 +96,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Poppins-Medium",
-            "size": 10
+            "size": 16
           }
         },
-        "kerning": 0.07142857,
+        "kerning": 0.1142857,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

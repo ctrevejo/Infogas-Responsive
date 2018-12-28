@@ -16,31 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Poppins-SemiBold",
-              "size": 12
+              "name": "Montserrat-Medium",
+              "size": 8
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 14,
+        "length": 56,
         "location": 0
       }
     ],
-    "string": "(01)  701-7505"
+    "string": "© Copyright Infogas 2019 - Todos los derechos reservados"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F16A95D0-4C96-44BA-943D-6677FE6C1D29",
+  "do_objectID": "E19FE136-F261-4220-B957-E15C2590448F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A93901B2-1DDF-4848-BE87-67DB96052410",
+    "do_objectID": "320B45B8-628B-46B1-A83F-0BE2C2D91BB4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +55,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B9339159-E593-4B9A-BF95-681BFDE6127B",
-    "height": 17,
-    "width": 80,
-    "x": 0,
-    "y": 57
+    "do_objectID": "6B3E45EC-84F6-4DF5-9AD6-BAAE5185A496",
+    "height": 16,
+    "width": 282,
+    "x": 19,
+    "y": 189
   },
-  "glyphBounds": "{{0, 1}, {79, 15}}",
+  "glyphBounds": "{{0, 5}, {282, 7}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,22 +70,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "titulo copy 30",
-  "nameIsFixed": true,
+  "name": "© Copyright Infogas",
+  "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "64010E0C-B582-4988-9EA0-CF9F1E48EABD",
+  "sharedStyleID": "16D48B01-2062-47EC-BD86-EA97285DFCF4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B0F54A3E-6CAC-4FC1-8D3F-BE1A3F3DC874",
+    "do_objectID": "DCD0344E-0A9D-480E-B9FF-B50D45504D52",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2A264C54-1483-486B-8003-435F15D102EA",
+      "do_objectID": "2C9DAA70-8016-483F-9D47-781D76F38003",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,15 +97,19 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Poppins-SemiBold",
-            "size": 12
+            "name": "Montserrat-Medium",
+            "size": 8
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

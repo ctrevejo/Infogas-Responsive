@@ -16,33 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Poppins-Medium",
               "size": 10
             }
           },
-          "kerning": 0.3333334,
+          "kerning": 0.07142857,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
-        "length": 23,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Políticas de privacidad"
+    "string": "Contáctanos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CE35B8CD-8595-473A-A656-F10BE3EEF8BB",
+  "do_objectID": "73909BA3-74D8-4D53-977B-0D3049CF18FF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "166F6362-235F-43FB-A966-BE5FF5BCC8E6",
+    "do_objectID": "99FF3DCD-28B0-4310-A2E1-2E8929211678",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0AFD99E7-D056-4E0C-AF9C-983CA3D8F247",
-    "height": 16,
-    "width": 120,
-    "x": 24,
-    "y": 132
+    "do_objectID": "296E53DC-DBED-4CF9-BB29-D9EA309E46F3",
+    "height": 24,
+    "width": 67,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 4}, {118, 10}}",
+  "glyphBounds": "{{0, 9}, {67, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,22 +68,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "titulo copy 19",
+  "name": "titulo copy 16",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "45F2DA85-FE89-445E-BF45-BF4AB7CE8DB6",
+  "sharedStyleID": "E8AEDED2-5454-44C2-8F55-E0088700E16A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "702D2AA2-15F3-4200-9E9B-C2C2403FAAFE",
+    "do_objectID": "C158399C-6730-4464-A7F8-C31AD4E1983B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4CFE7426-0AAA-4FB6-9846-CA4AA353BD3D",
+      "do_objectID": "2960C8BB-FD91-4FB1-8198-61D979FD4853",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,17 +95,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Poppins-Medium",
             "size": 10
           }
         },
-        "kerning": 0.3333334,
+        "kerning": 0.07142857,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

@@ -16,33 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
-              "size": 16
+              "name": "Poppins-Medium",
+              "size": 10
             }
           },
-          "kerning": 0.5333334,
+          "kerning": 0.07142857,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
-        "length": 21,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Servicios Financieros"
+    "string": "Encuéntranos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2036F5B2-7DDF-478F-A177-1119AEE6F249",
+  "do_objectID": "A0C3A3B8-4233-42CF-99CC-36ECB017F061",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "58673522-F4AC-4553-BF54-E6275758CF78",
+    "do_objectID": "01657E68-7AB7-46AE-A4B0-E4F62634B4C5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "72410E1A-B94A-4124-ADCA-28F1159E0316",
-    "height": 16,
-    "width": 179,
-    "x": 807,
-    "y": 113
+    "do_objectID": "9AEE8642-2930-4991-ABA4-AF2B0BC45886",
+    "height": 24,
+    "width": 71,
+    "x": 0,
+    "y": 82
   },
-  "glyphBounds": "{{0, 2}, {178, 13}}",
+  "glyphBounds": "{{0, 9}, {71, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,22 +68,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "titulo copy 13",
+  "name": "titulo copy 21",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "45F2DA85-FE89-445E-BF45-BF4AB7CE8DB6",
+  "sharedStyleID": "E8AEDED2-5454-44C2-8F55-E0088700E16A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F97E6420-8175-43D4-B13E-7BE54BCB968A",
+    "do_objectID": "868949BF-F5C3-45C3-8B92-CF0653BFDA6A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B7F25838-5A3C-44A9-96C4-E13BF0709956",
+      "do_objectID": "DBDD6787-ECC1-4EC5-9367-7A244089C5D7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,17 +95,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
-            "size": 16
+            "name": "Poppins-Medium",
+            "size": 10
           }
         },
-        "kerning": 0.5333334,
+        "kerning": 0.07142857,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
