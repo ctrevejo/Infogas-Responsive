@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F37B75E9-FD34-46BB-91CE-728C67DB8560",
+  "do_objectID": "850AC4F7-B33C-4446-BEC9-9CB99CFF00E6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A13A7405-2038-4695-9D1B-9C7D3268A52A",
+    "do_objectID": "B06F4B36-9A26-46CB-848F-6DA4A64D13E8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "B3B8344C-C4E1-4178-93E4-E1BCE8A6074D",
-    "height": 69,
-    "width": 320,
-    "x": 0,
-    "y": 48
+    "constrainProportions": true,
+    "do_objectID": "781E54E1-1FA5-474D-B625-ADAA62EA3EF5",
+    "height": 24,
+    "width": 24,
+    "x": 269,
+    "y": 162
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Sub header 2",
+  "name": "Icons/Line/Arrow/Circle down",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F864D67C-F166-4BCA-A2C1-7B2FCB142E48",
-      "overrideName": "408286EA-D84E-44A4-810E-7D8A3E6BEC99_stringValue",
-      "value": "Inicio / Reportes  "
+      "do_objectID": "9CBF9EEB-8478-4330-B577-FCA9EE0C511E",
+      "overrideName": "E32EADCE-99E1-4D86-9687-64C38A84B092_layerStyle",
+      "value": "11BF98CD-6E1F-49D2-9DC1-DF1924B43A60"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BA3B7001-E764-47E1-8571-AFFC28764BE8",
+    "do_objectID": "8AB9CB7B-A2B1-4525-9BBF-EBB5C293A4A5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "symbolID": "1B30AA17-2177-402B-AB45-F4A4DABBA245",
   "verticalSpacing": 0
 }
