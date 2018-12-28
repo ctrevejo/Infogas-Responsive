@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6E2B8FD7-583C-42B1-9CBC-151D6F195F6F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 13482,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC0DCDCB-A789-47AC-B7F8-A0B2A6AD4717",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4436776E-512A-4AF7-91B7-E998705B85C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7C1BDDF-AE6C-4D27-A982-E0FD04D184D0",
+    "height": 700,
+    "width": 320,
+    "x": -10802,
+    "y": 6589
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B4C6B0AE-50A1-4E57-9CC1-C7C06D49600B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "76A54369-3ECA-439E-909F-F5A25C458579"
+    },
+    {
+      "class": "rectangle",
+      "id": "02637BFE-40B3-47BB-952D-12FA47BE22EC"
+    },
+    {
+      "class": "text",
+      "id": "3500066A-97F6-41C4-826D-E09AD94B2EC5"
+    },
+    {
+      "class": "group",
+      "id": "95312F36-BA9D-4BF8-9842-AC81F56904D2"
+    },
+    {
+      "class": "group",
+      "id": "FEB6C046-A37D-4090-8549-77CF1983E93B"
+    },
+    {
+      "class": "group",
+      "id": "67B781C5-B2D2-4770-85EA-19F6F250AECB"
+    },
+    {
+      "class": "group",
+      "id": "04D3D6F1-916F-4945-AF03-FBCF075A86A1"
+    }
+  ],
+  "name": "Control/Search Entity/Grifo/Por nombre",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2D400CE-C634-4D88-A015-7AFAE99497ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "989CD1C5-FAEA-499D-A3A0-81F1042D898B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B2AC5B8-B517-4C0C-A761-BD74FF275652",
+    "guides": [
+    ]
+  }
+}

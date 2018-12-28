@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD1BE60F-8AF7-41E3-A4B9-94214C369BD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B11A074E-9836-46EA-A0CF-C35D476C2F31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBCE2A4C-2810-4CF0-A0FF-DDC591C4E2FE",
+    "height": 30,
+    "width": 190,
+    "x": 37,
+    "y": 31
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8A240A7D-DF2E-4D85-B5F2-93BDE4EE3458"
+    },
+    {
+      "class": "text",
+      "id": "B0F11827-AC6B-4EA7-8F44-1731CBAE2200"
+    }
+  ],
+  "name": "Form/Textbox Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3D0A192-C97D-468E-855D-A34E7A218584",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B972A48-3A78-4320-BC9B-77E1F3383FDB",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30E9D53D-B5CF-4BB5-AA33-C6D56108B1C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88A43171-B409-47F4-B023-872A858BEB6A",
+    "height": 12.825,
+    "width": 9.000000000000004,
+    "x": 4.846153846153846,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fill 5",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.077534136252150693, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.077534136252150693, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.077534136252150693, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.077534136252150693, 0.11672414694048182}",
+      "curveMode": 1,
+      "curveTo": "{0.077534136252150693, 0.11672414694048182}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.077534136252150693, 0.11672414694048182}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.9334846432624373, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.9334846432624373, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.9334846432624373, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.0026388671160578743}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.0026388671160578743}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.0026388671160578743}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.92433283303437419, 0.0026388671160578743}",
+      "curveMode": 1,
+      "curveTo": "{0.92433283303437419, 0.0026388671160578743}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.92433283303437419, 0.0026388671160578743}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.92433283303437419, 0.89146679207817325}",
+      "curveMode": 1,
+      "curveTo": "{0.92433283303437419, 0.89146679207817325}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.92433283303437419, 0.89146679207817325}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.063239008675916128, 0.0032397972513980621}",
+      "curveMode": 1,
+      "curveTo": "{0.063239008675916128, 0.0032397972513980621}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.063239008675916128, 0.0032397972513980621}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFB258EB-5309-4202-95DD-2A18B0D6470B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.188,
+          "green": 0.188,
+          "red": 0.184
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8F097EFB-6306-4810-8FF9-C6DAB0A9AB89",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77999014-E354-46F0-B277-37DBB0D63AEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8420E984-3853-48AC-953A-DA086150328C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF1986CF-4333-4C1A-909D-CF69D5770E80",
+    "height": 967,
+    "width": 320,
+    "x": 2532,
+    "y": 12789
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ECF735B6-E1E3-4E72-815B-6ED27D75DED0",
+    "guides": [
+      14,
+      307,
+      56
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "937B3E35-57FE-4CD4-A5AC-EEB5E86293C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB77587C-6FFC-45BA-A9B2-795C0F96B31B"
+    },
+    {
+      "class": "bitmap",
+      "id": "5D734230-7CB8-4A65-89A4-28903C6990E5"
+    },
+    {
+      "class": "bitmap",
+      "id": "322EC2AE-28C8-4833-9A4F-A0CCB02B0251"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95169390-EB5D-4F00-BB81-31B96D9957D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34DE78FF-F32A-403A-B24A-3CD64ABCD358"
+    }
+  ],
+  "name": "5.1. Grifos - Por Nombre - Lista - Empty",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92D33FBF-CE65-4262-8140-6808EAE6AD48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6C045228-4603-4EEA-8427-8782FAAA7790",
+    "guides": [
+      520,
+      307
+    ]
+  }
+}

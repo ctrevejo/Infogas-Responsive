@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBF8FEEA-2F5C-4BBA-A64C-A2F093D2BD83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FAE8664-7268-4F95-A49C-CECA2EF68DF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1719E710-773F-4D41-BD1F-E973B031DDD1",
+    "height": 33,
+    "width": 134,
+    "x": 2,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "794170B2-7F1A-4400-BDEB-587927EC1752"
+    },
+    {
+      "class": "shapePath",
+      "id": "16CB35FF-356A-401D-919B-79A9E023522A"
+    }
+  ],
+  "name": "Selected tab",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E71DE93-5C31-426B-940C-F5E9527BD5A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

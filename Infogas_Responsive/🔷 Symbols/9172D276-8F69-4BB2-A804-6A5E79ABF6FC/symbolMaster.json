@@ -1,0 +1,120 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "39CFA48A-F84F-4D5B-B610-A82C284082EB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 12719,
+  "clippingMaskMode": 0,
+  "do_objectID": "9172D276-8F69-4BB2-A804-6A5E79ABF6FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5050B9A7-6A00-4DDF-A619-BB773C1C9A44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B91A7645-FD33-4C5A-BE01-9187662C5148",
+    "height": 440,
+    "width": 1440,
+    "x": 2722,
+    "y": -378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D5DD2D3-72E4-45EE-B020-6A6235A7D2FA",
+    "guides": [
+      1330
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7CB8CC24-7EA3-4CDC-9D9D-2173A5928DCF"
+    },
+    {
+      "class": "group",
+      "id": "6F7E7E2B-9004-43AB-8100-313ABBA82707"
+    },
+    {
+      "class": "group",
+      "id": "5190E55D-F7C3-4514-9414-FE01C0D575B1"
+    },
+    {
+      "class": "group",
+      "id": "F56D9815-7032-456D-8B61-70588F24C80F"
+    },
+    {
+      "class": "group",
+      "id": "FDBC1189-0AA4-4617-A21C-F7479167571D"
+    },
+    {
+      "class": "text",
+      "id": "76607DC2-D15A-4C69-9039-5C0AF294BD1C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 82,
+    "do_objectID": "AADAEF7E-1B08-400A-9E3C-E601C54EED51",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.45454545454545,
+    "guttersOutside": false,
+    "horizontalOffset": 110,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1220
+  },
+  "name": "Advantages #4",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EEF5FF2-D630-4308-9457-4D177EBE72CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A48D6F83-14D7-49B1-925C-CE77BBE149C4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1F39A81E-85A4-4464-ABE6-2AADBA6BEA50",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E64452A5-7154-45F7-BD00-1B1FED4392B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "277C6CDE-75A4-4E20-B655-6445C3D0DD84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2C99C32-9EC9-4394-9420-B3A535951625",
+    "height": 42,
+    "width": 320,
+    "x": 0,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D205DD88-F344-40BE-9BC3-002A6212327F"
+    },
+    {
+      "class": "group",
+      "id": "2F19FE6D-429F-4105-B437-DA8D5BEDB82D"
+    }
+  ],
+  "name": "Tab control Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1192600-4A67-4781-9777-206648E39E63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

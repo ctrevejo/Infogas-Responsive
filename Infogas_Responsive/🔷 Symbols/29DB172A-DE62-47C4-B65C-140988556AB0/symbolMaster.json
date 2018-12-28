@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E4037998-C501-4B6E-B1EC-66AE199808F9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 245,
+  "clippingMaskMode": 0,
+  "do_objectID": "29DB172A-DE62-47C4-B65C-140988556AB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6CC3468-741E-407F-9D11-EF3C1852C151",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "395588F3-0F2B-4156-8B68-A6EDDF39FD8B",
+    "height": 316,
+    "width": 328,
+    "x": -8913,
+    "y": -324
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B8C0BEC4-940D-48CC-AC51-5C6BE34771C0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "653C8360-B61D-41D6-A8A3-356DE2BECBC2"
+    },
+    {
+      "class": "text",
+      "id": "46389914-BB7D-4C8D-A743-157B4B2C1A27"
+    },
+    {
+      "class": "text",
+      "id": "BC198B8F-59BA-4FC1-BB1E-E542637B1E28"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "CF69AECE-D6BC-4416-8AFC-B043310B0272",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 65,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "box",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF329302-E7B9-4544-BC8F-628AE541384B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49A707C2-9F74-4ABE-9AE0-B1944324E9E3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6DBF2C70-71D9-419F-92BA-136EB2C30519",
+    "guides": [
+    ]
+  }
+}

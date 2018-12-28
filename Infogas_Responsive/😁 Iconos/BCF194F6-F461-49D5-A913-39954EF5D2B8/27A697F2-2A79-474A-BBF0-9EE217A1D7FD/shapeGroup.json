@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "27A697F2-2A79-474A-BBF0-9EE217A1D7FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1A49C0E-3162-4E8A-A907-549835B7467C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9E4E1870-D078-4C83-9CAE-B7537A7ABF90",
+    "height": 136,
+    "width": 104.1492042537076,
+    "x": 20,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AF7D84A1-3CA2-4180-94BF-44A935B1FBE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDB35C0C-0941-4B28-8552-6C7C1CA1769B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2FB8C7A-29C6-409D-A1A9-72F9BB3CD3B6"
+    },
+    {
+      "class": "shapePath",
+      "id": "47AA0224-4BAA-4F86-9A5B-F2E8825DEBAF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB2601F8-29DB-4435-983B-27AF394EA286"
+    },
+    {
+      "class": "shapePath",
+      "id": "D94A580F-2365-45EC-B464-15EDFBD3E184"
+    }
+  ],
+  "name": "Fill 14",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "CBDF43FC-7B99-4C05-8881-7059D6408D3F",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "2D3AE955-650E-4B09-A56D-FD0B08759D91",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.34,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

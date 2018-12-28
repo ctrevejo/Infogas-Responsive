@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "293D60DF-F62D-4A51-B1D3-FCA9E3D0B1E9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1461,
+  "clippingMaskMode": 0,
+  "do_objectID": "79B9C207-A5B1-4B04-BC13-FC41D2F34FFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3656ADE8-06CD-4F2F-BA3E-794765797591",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCB3D964-6A6C-40FE-BF58-5233C216051B",
+    "height": 19,
+    "width": 36,
+    "x": -6099,
+    "y": -378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0AE2BAA6-6330-42B8-B662-3602B2998534",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BD621D37-B325-4D58-8203-D7087AA12ACA"
+    }
+  ],
+  "name": "Text/Body (14px)/Dark/Bold/Left Aligned",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC04D00F-7836-452B-86C3-11C4853DC282",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ECB39284-3891-4A2F-B8BC-CB2BDCD4E4E5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3BBA0C83-6CAC-4839-9630-033097C90EC3",
+    "guides": [
+    ]
+  }
+}

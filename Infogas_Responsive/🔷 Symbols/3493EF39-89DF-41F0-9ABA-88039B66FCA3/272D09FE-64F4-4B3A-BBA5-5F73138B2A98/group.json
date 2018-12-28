@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "272D09FE-64F4-4B3A-BBA5-5F73138B2A98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9081C9BB-0CE3-466B-B572-8C704C01FC56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7FA63F2-47C5-4955-BF6E-50325E1A0CF6",
+    "height": 1053,
+    "width": 960,
+    "x": -56,
+    "y": -216
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CC0A48FD-62CD-4625-90C8-FB553F1DF2FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "ECE255B4-D23D-4C86-944F-DDD8B4376C86"
+    },
+    {
+      "class": "rectangle",
+      "id": "059279E5-9EF3-4678-8AD9-4F38DB9D4977"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D1DC408-AB48-4960-B41D-5BF47B3D451D"
+    },
+    {
+      "class": "rectangle",
+      "id": "1ECB6240-2287-47A7-A50D-385EE876E478"
+    },
+    {
+      "class": "rectangle",
+      "id": "71ACCD91-97E3-4DAE-AC2D-FDD579B066D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE82CD40-D9F8-451F-B4C6-481964A179E4"
+    },
+    {
+      "class": "rectangle",
+      "id": "99304514-AC54-4BCF-9161-965C0BB43EE2"
+    },
+    {
+      "class": "rectangle",
+      "id": "114C2808-792E-40BC-B592-F17A92F5A9DA"
+    },
+    {
+      "class": "rectangle",
+      "id": "51A3C438-C517-4209-963A-D91B977816CC"
+    },
+    {
+      "class": "rectangle",
+      "id": "11D37C9D-F436-44C4-A69D-335EE08ABD76"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3D26DFA-B195-4328-8AF2-D85AB4785F86"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E0B055E-5C33-4824-8C6B-E7405020B0C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A07A6CDE-CCF8-40A6-A5A9-8AC3B5E2D011"
+    }
+  ],
+  "name": "Dividers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "021DBB1C-ED66-4776-A03C-72EAFC49BCD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FE8AFDC9-A246-4374-A313-2266A3FACEC7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 597,
+  "clippingMaskMode": 0,
+  "do_objectID": "23914730-1FD2-4EEA-A9C8-48978F6815B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED521563-1998-4814-AC0A-57D26341E292",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCC3F222-1F6F-4F26-9276-1E9C44DC58E2",
+    "height": 86,
+    "width": 86,
+    "x": -10819,
+    "y": 122
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "68D9949A-52CE-4811-AAF6-917B6C6D3808",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7C105F13-1CA1-44DA-A0AB-17AE70DE72BB"
+    }
+  ],
+  "name": "UI/Color/Flat/Primary",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDA948C6-400A-47EB-B96F-69846348DD46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "73D640A4-9E4C-40C7-A360-DCB0697839AC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0392B39F-06B6-4602-B79E-899F166E9567",
+    "guides": [
+    ]
+  }
+}

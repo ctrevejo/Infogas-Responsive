@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C81BAD4B-1C77-4699-801C-EB3C9EB87918",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "297C2F4C-3CF6-4376-A7FA-3C54DAC6C31B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E5731DA-BAF6-4A62-9F41-F84AC0616371",
+    "height": 58,
+    "width": 294,
+    "x": 13,
+    "y": 189
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button to download PDF",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CB74CA8-748B-487A-987D-33C74AF51496",
+      "overrideName": "44454F1A-C32B-49B0-9F20-6C4D8EDC5FBF/BF343DDD-9FE8-4563-BFF7-43E480F9610E_layerStyle",
+      "value": "BE8AAB80-202D-460E-9D98-F19CCDA993F9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D87EC5F7-968C-4783-BBB3-0D02E1EA00C6",
+      "overrideName": "5EA8836E-0E0C-4FDB-91CC-A2E824147EB2_stringValue",
+      "value": "Lorem ipsum dolor sit "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA0A06C2-876D-480C-83C5-87D42E296C97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7FD0726E-6558-4098-9BDF-3737C2D33A37",
+  "verticalSpacing": 0
+}

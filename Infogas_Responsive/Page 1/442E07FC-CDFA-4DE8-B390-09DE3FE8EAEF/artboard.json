@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0FEB88F7-2DE8-4EB8-A0ED-E1C5404DF1A3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "442E07FC-CDFA-4DE8-B390-09DE3FE8EAEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7E35BC7-F67C-40AB-AE47-E9BA421D0ACC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3875BA7E-DBE4-4720-AEDF-152D69B27DD6",
+    "height": 967,
+    "width": 320,
+    "x": 4382,
+    "y": 12789
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F1C992A-4FE8-4D07-8C07-90EFFCA45931",
+    "guides": [
+      14,
+      307,
+      56
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBDFD7D1-BD44-4664-B01E-378362CF8E88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F818F03D-FED7-49A0-A794-0F94124D6ED8"
+    },
+    {
+      "class": "bitmap",
+      "id": "3CE211F4-9C2B-444B-BF10-15E14F1B37E5"
+    },
+    {
+      "class": "bitmap",
+      "id": "09101DE3-868A-48E9-8C70-96353B581CFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16D128C0-074E-40E5-B582-3253800CF724"
+    },
+    {
+      "class": "group",
+      "id": "971AE14B-527A-4C44-BE49-74D3B362D059"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2266D6A3-68FF-444C-ACCC-2C341113A92D"
+    }
+  ],
+  "name": "5.6. Grifos - Cerca a mi - Mapa - Resultados - selected",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44338B55-405F-47BC-9934-1998DDD7BD25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5FE5C065-5BDC-4157-985B-BCF33F9A3AF1",
+    "guides": [
+      520,
+      307
+    ]
+  }
+}

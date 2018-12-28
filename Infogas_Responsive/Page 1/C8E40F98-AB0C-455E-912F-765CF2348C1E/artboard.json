@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0C389618-7859-4423-A06D-B4C427FA55D4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8E40F98-AB0C-455E-912F-765CF2348C1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "610F1782-7230-4DF5-8423-CFF6FDF3FD9D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "807272EA-9C47-4588-AC2B-89309299C853",
+    "height": 768,
+    "width": 320,
+    "x": 1348,
+    "y": 15717
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E8D6432E-0D11-4B7F-8495-9A2CF1308C76",
+    "guides": [
+      14,
+      307,
+      42
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F4398A37-591C-46A6-A970-906165C5B0F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB3FBA76-5DBB-40CC-A303-0C314278202F"
+    },
+    {
+      "class": "bitmap",
+      "id": "A150CD42-0790-4C5C-9357-E336B9C73FC4"
+    },
+    {
+      "class": "bitmap",
+      "id": "2C636A62-1E56-4341-B4B2-1395302710C8"
+    },
+    {
+      "class": "group",
+      "id": "9E32CE3D-D20F-4333-9C91-984E1D145384"
+    },
+    {
+      "class": "bitmap",
+      "id": "FBF85905-9F5C-4F62-BB24-B93DD1D79061"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87ED9A7C-1377-49F7-88D2-DFE44C776370"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA0139CC-8A2A-4B07-8A87-0540257CEB06"
+    },
+    {
+      "class": "text",
+      "id": "1787DBD5-B1A9-4C21-BEEA-744542143FD3"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C24C4E8-92E5-4655-9B74-71AACA80A02F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DED9E28F-1070-4597-97A3-7C8FECB1573B"
+    },
+    {
+      "class": "text",
+      "id": "A6930A98-548F-40F4-B360-019EBA81BDCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C7D0672-2EFA-476B-97BF-249C709E46A6"
+    }
+  ],
+  "name": "3. Procedimiento-PDF",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "353E8F27-50EE-4D28-B32C-4E7EA53A70D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "85B9C76A-0A15-43CA-B9C5-B550820A795B",
+    "guides": [
+      520,
+      970,
+      938
+    ]
+  }
+}

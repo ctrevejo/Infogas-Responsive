@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71E755C3-2D0E-4EB4-A230-93F6031489F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "137ACEDE-F608-4C99-AE4E-BE5ABA7D9E38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "511727DB-4865-4330-931C-62348069D03C",
+    "height": 432,
+    "width": 8,
+    "x": 304,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "42E7E3A5-B309-41A0-B31D-613B3DCFDC97"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F0C5168-8A09-4353-8048-CCDFB917AC1C"
+    }
+  ],
+  "name": "Scrollbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14A24B8F-1262-4970-9411-AB435D119753",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

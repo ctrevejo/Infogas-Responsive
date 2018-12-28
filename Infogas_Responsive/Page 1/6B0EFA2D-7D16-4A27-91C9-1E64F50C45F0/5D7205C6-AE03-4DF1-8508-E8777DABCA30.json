@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D7205C6-AE03-4DF1-8508-E8777DABCA30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51B0CE24-DA2A-4C48-8BD4-C6B84A67CF10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40AF6183-40ED-4E5F-8DC8-3724FF929859",
+    "height": 28,
+    "width": 133,
+    "x": 94,
+    "y": 732
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4388B78-CCEA-4D21-A5BD-2F3C31405078",
+      "overrideName": "CF583453-ECF8-46F3-8DCF-3C22EDDFEBF4_layerStyle",
+      "value": "9DEE9FBE-07E0-4D5C-8DC2-C7E3B77421E4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "376F778F-3B3A-43E6-9F83-9DBCDD0F4B9F",
+      "overrideName": "C6541304-1ED7-4C5C-BE92-FEF4A38ED26D_stringValue",
+      "value": "Consultar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22E85AE1-A1C4-4E60-8472-00352D9942CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DBDE283-6CDF-4BB5-9209-307EB084EB75",
+  "verticalSpacing": 0
+}

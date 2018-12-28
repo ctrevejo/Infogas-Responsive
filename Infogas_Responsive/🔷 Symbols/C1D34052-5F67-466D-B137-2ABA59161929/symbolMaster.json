@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "97D0EFB0-A633-41DA-B956-DE1D8155165A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 160,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1D34052-5F67-466D-B137-2ABA59161929",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "253161E5-E6BD-43C3-A3F8-BC317955C3AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D07836D-0F33-47DA-A90A-401C3F1B5F25",
+    "height": 46,
+    "width": 238,
+    "x": -8093,
+    "y": -378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F656F64B-10A3-4A4A-84EF-1EED0F98924F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8D5BDD0D-1A9A-4DFD-A0D8-BBA30F719202"
+    }
+  ],
+  "name": "Text Field",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "367FF3AC-C0E8-43DA-9691-D37ABDB17E59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6818B7F7-6F19-4279-97D4-04F9471013E8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9805B12C-3FD7-402D-A851-C26DF8B1D69D",
+    "guides": [
+    ]
+  }
+}

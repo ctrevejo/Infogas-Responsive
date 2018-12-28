@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1CBA325-DDEE-4F3B-925B-FF8EF0B51852",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBFA4194-AB70-4519-9C69-F9EBE0331F42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1809A99-F73D-402F-BFC8-D337CB8B37FE",
+    "height": 69,
+    "width": 320,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sub header 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F864D67C-F166-4BCA-A2C1-7B2FCB142E48",
+      "overrideName": "24E218D1-BA86-493A-B7B8-857B500E8016_stringValue",
+      "value": "/ Participantes / Estadísticas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0D0BBE0-4B69-452D-BAD1-3B887BEF00EF",
+      "overrideName": "1D9F70B5-08EB-4D66-B4D4-1448646BB34D_stringValue",
+      "value": "Estadísticas"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2BC9F25-5C0A-43AA-A6B5-0B1620F6409E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFF3E3FF-7CE6-481A-92A0-7101BBE81141",
+  "verticalSpacing": 0
+}

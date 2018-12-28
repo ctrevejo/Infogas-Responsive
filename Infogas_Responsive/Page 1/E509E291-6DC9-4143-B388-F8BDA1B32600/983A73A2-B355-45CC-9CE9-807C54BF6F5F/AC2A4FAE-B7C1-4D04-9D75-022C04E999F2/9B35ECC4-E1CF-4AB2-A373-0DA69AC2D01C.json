@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B35ECC4-E1CF-4AB2-A373-0DA69AC2D01C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E2DF561-49D9-40ED-A429-EDFC66F01CF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C396CF3B-64D7-42D5-9FF7-6FBCA0F03711",
+    "height": 48,
+    "width": 48,
+    "x": 116,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/General/CRPC",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72FF3420-17E1-4B6A-96CC-AF8B74C5C1B0",
+      "overrideName": "E28CB608-C156-4812-963B-C4B469A2E28E_layerStyle",
+      "value": "93A612C6-02B2-494F-969C-B1197D60B893"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E01D238E-581C-4132-B040-4EF824DB9357",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10252187-E829-4942-AD9C-B195D4063B57",
+  "verticalSpacing": 0
+}

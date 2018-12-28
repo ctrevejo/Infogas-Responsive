@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4398A37-591C-46A6-A970-906165C5B0F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79280EA5-CF93-4623-BEF6-9137FC5B716B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34327DEE-8D54-40A9-BA4E-EEDFB9B7C9E0",
+    "height": 1097,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "55D4840C-E0D8-4139-A632-628853136E1F"
+    },
+    {
+      "class": "rectangle",
+      "id": "71878CB5-1F8D-470C-8F7A-0CEA7929F86E"
+    },
+    {
+      "class": "rectangle",
+      "id": "ADC29219-FF4F-4D08-A50C-11128ABBC869"
+    },
+    {
+      "class": "rectangle",
+      "id": "E40069E0-311F-498E-9C86-142661FF071B"
+    },
+    {
+      "class": "rectangle",
+      "id": "10F0B5CA-4EB7-4EE2-874D-10077B2B6048"
+    },
+    {
+      "class": "rectangle",
+      "id": "7EEC73A2-06E9-44F3-9218-56F1B5FA1E44"
+    }
+  ],
+  "name": "Grilla",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "198C66BC-49A2-4665-934E-7D6CDBE76A44",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F9559C21-E66A-41A1-8047-E8CD7D10E0A0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 39,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC585692-39BD-43C2-A434-6059FE3BCC03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F779C72D-E9ED-4EA0-8906-90ACA1FA3355",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0DBB261-F1B2-4417-A4C2-031EB4F6594A",
+    "height": 72,
+    "width": 86,
+    "x": -10819,
+    "y": -236
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "AAD1C351-CE4B-4F28-801F-CF8DD113640A",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "976297FF-5B85-4481-9870-36623480E46F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "725D9434-A17A-45A6-B04F-39B405232DC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9F47653-E8FC-48D0-BF83-929A9FECB461"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "1A06EAEB-5058-4104-8616-EE9C9A2C149C",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 65,
+    "guttersOutside": true,
+    "horizontalOffset": -677,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Participantes",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A5B7BCC-53D8-460D-9958-60FDF3E24778",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F0B06D9-FAE6-41D7-ADF7-E6F18AF378E7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "399E4126-3B7B-4C6B-83DD-8916F59F0DB5",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "309E2F85-A993-4ED7-9CA9-AA8AED3119AB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 304,
+  "clippingMaskMode": 0,
+  "do_objectID": "F223A72E-4382-42C9-9F99-DE559D705FBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "094C73F5-7B0E-4EB3-8DB9-13B1A6901E85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "317DD44C-DD09-41CE-AC9D-002CFEC6AB7D",
+    "height": 120,
+    "width": 1440,
+    "x": -3695,
+    "y": -378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E89BA6D-35AF-41EE-B640-236AAF06A979",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8FBDDD32-4088-408F-B0BA-4C87820A7709"
+    },
+    {
+      "class": "text",
+      "id": "3E23AAF1-EFAB-4E9E-91FF-140CDE6CBE18"
+    },
+    {
+      "class": "text",
+      "id": "4EB8C23E-31C5-48F6-AB37-E7CF4BB61E20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB9AB273-6E67-48B4-A16E-9FE961BEDEA0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "B889A1DA-8CF6-475F-B98A-F128341EFFE7",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 70.9090909090909,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Header 2 Web",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C41BFFC-0939-4CBA-BD7E-F23760832C2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC8D429A-02F3-4B87-8EFE-0DC5DF2D04E7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EAD0F5ED-70B2-42F6-B548-B3492264EF09",
+    "guides": [
+    ]
+  }
+}

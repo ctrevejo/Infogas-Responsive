@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "14B6BC4D-45E5-4F87-9365-52EC8500594B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 85,
+  "clippingMaskMode": 0,
+  "do_objectID": "21DC57A7-35FF-4CB2-AED8-68BDAFC06AEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE32A69B-BE02-4E30-A481-46D024B16C01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69CD78A4-6CA7-458D-AA65-C07EBE25B828",
+    "height": 100,
+    "width": 1440,
+    "x": -2155,
+    "y": -378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DFC3F4FE-5D3A-4D2B-8021-5F7D01D9FED3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "21FD2574-3EA2-444F-A7C5-A412BFB69EBC"
+    }
+  ],
+  "name": "Placa_Vehiculo",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8956ECE5-5BEC-4168-B422-4A7F3DF5472E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E2D9485-07ED-4EF9-9751-3DEEA63ED85B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BB864D36-1B5B-4C16-BAD2-F060E477222D",
+    "guides": [
+    ]
+  }
+}

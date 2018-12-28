@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "22F6B00C-AA92-4174-A15C-6995B54FC732",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0B353CE-51CC-4845-BC3C-0D67EC78ABC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91A3ECC2-121E-47F3-A282-B7BEB19869C6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A89B5E13-6483-4460-AB23-AD3516DB5110",
+    "height": 967,
+    "width": 320,
+    "x": 1422,
+    "y": 12789
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D5F55EA-FBFC-4398-9A04-46B4CA68C734",
+    "guides": [
+      14,
+      307,
+      56
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "95033651-E83A-4EB1-BFFD-DA735738790E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30BE4EC1-E8D0-4206-90F5-6AB6F0EA417E"
+    },
+    {
+      "class": "bitmap",
+      "id": "46844F4E-F0C9-41E9-B771-6E08BB524B92"
+    },
+    {
+      "class": "bitmap",
+      "id": "628194B8-A755-448C-AC74-3B2021405D1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "963959FC-0C01-4728-B94E-4C32A1EFC5AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24CE921D-C472-476B-9D71-E33BCCCA3648"
+    }
+  ],
+  "name": "4.4. Talleres conversion - Por Nombre - Lista Resultados",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A48C5BDF-4242-4E40-A9C8-54A8EFF3C1B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "13C67697-8C86-4C8F-A009-6F11D9EE0AAD",
+    "guides": [
+      520,
+      307
+    ]
+  }
+}

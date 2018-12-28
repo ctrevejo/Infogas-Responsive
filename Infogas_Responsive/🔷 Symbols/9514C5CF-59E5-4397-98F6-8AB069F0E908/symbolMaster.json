@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "00ACBBC9-2C8C-4816-942C-46CF7B6BD3AE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 134,
+  "clippingMaskMode": 0,
+  "do_objectID": "9514C5CF-59E5-4397-98F6-8AB069F0E908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFEE2C89-2B8D-4DC3-B3AD-BEAE4A4D394C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B84CE29C-CBDF-4C46-8F1F-217E4B3399C9",
+    "height": 86,
+    "width": 86,
+    "x": -10819,
+    "y": 494
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AADAE792-1E22-453D-A102-6C3E1ED58485",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9D1C6BD2-F49E-4672-A1C7-B23807938B16"
+    }
+  ],
+  "name": "UI/Color/Gradient/Green",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42B0ABFB-A1AA-4C3C-831A-535E69B5C6D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C10DF19-4D82-477F-B57B-CBFCC2FF9DF1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "748E4994-CAF3-4D35-97EE-C3494E3281BE",
+    "guides": [
+    ]
+  }
+}

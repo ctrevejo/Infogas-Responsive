@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F43A4CD0-05FD-4956-B57F-58CD36984022",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60F1656D-4539-45D1-BEED-CC3FC7D311DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F024377-362F-4B4D-BB01-68AA9DD5BF18",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C03F25A-3CAF-465D-B154-E03C69E0EA67",
+    "height": 967,
+    "width": 320,
+    "x": 682,
+    "y": 12789
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F8F92B4D-6A1B-4F11-ACFB-124E3F6E68AC",
+    "guides": [
+      14,
+      307,
+      56
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F059358E-267F-4D29-A853-DB90C24A53F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C61EE81-CBDE-47F7-BA2B-E1C593C1AAF4"
+    },
+    {
+      "class": "bitmap",
+      "id": "5EF29C20-1B58-441B-A0B2-4F6C7D6155BF"
+    },
+    {
+      "class": "bitmap",
+      "id": "3CC5339C-5117-4BAF-97E5-629A3876F08E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E44C151F-7ABA-4C9B-BC39-D7244C26EFEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F7225C9-9D2D-4800-9136-C764AA858434"
+    }
+  ],
+  "name": "4.2. Talleres conversion - Cerca a mi - mapa",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00B28C14-69F2-4D75-9023-6CC0F0B95AFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E2470D2-8F73-4F2A-B39D-6601ABFADB1F",
+    "guides": [
+      520,
+      307
+    ]
+  }
+}

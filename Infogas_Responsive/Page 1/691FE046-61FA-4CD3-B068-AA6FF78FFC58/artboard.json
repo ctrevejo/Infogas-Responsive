@@ -1,0 +1,166 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D3A57383-8F30-4196-8493-04EE058EC437",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "691FE046-61FA-4CD3-B068-AA6FF78FFC58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2E8935A-20EB-4224-BB1A-AAF66AC801C2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "309B4010-0F6E-4D28-BDAD-AE3DB22758FB",
+    "height": 1343,
+    "width": 320,
+    "x": 4020,
+    "y": 11033
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F94DBCD1-8668-46AD-8F0B-0F9449B7A83B",
+    "guides": [
+      14,
+      307,
+      42
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "900FBC45-B52B-4680-AA58-6D3F61FC496A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA140A73-E548-4E4D-BE4E-CDD0C11AB65A"
+    },
+    {
+      "class": "bitmap",
+      "id": "BDEAC6A7-CDA7-435F-8E8A-0BA172338470"
+    },
+    {
+      "class": "bitmap",
+      "id": "E7F1B596-DC48-41E7-A213-AFE44DABC16D"
+    },
+    {
+      "class": "bitmap",
+      "id": "5B431C6E-802D-4383-8DC1-3C0D1DDC241D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "421BEBB5-7F13-4367-B2C2-5F7DD7DAEFE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "216BE034-794F-47F7-A853-BE91E059A10C"
+    },
+    {
+      "class": "text",
+      "id": "BEECAA79-8C6D-4035-A375-4154F2CEE504"
+    },
+    {
+      "class": "group",
+      "id": "F140A4D3-31B5-4558-B00B-B6A76F429D89"
+    },
+    {
+      "class": "text",
+      "id": "25E346A3-453E-47CF-B682-33CFCB14EABA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C35D05A1-5795-4491-944D-5827B77902F5"
+    },
+    {
+      "class": "text",
+      "id": "A11D3966-5258-4C14-B2E8-6B3D3D4E469F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C5F9195-1155-42EB-A604-E5A46C19642D"
+    },
+    {
+      "class": "shapePath",
+      "id": "022E636A-B76C-4011-A17A-20D96DC5BA3D"
+    },
+    {
+      "class": "group",
+      "id": "A17FF368-57BF-4252-BB97-375CE1DE1CC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "807FCD38-BC55-4845-A70D-E99C49B6479D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC712C09-EFC6-46DB-B879-7F04C2492F76"
+    }
+  ],
+  "name": "10.-Sistema Integrado de transportes",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D83D77FB-17CA-45E9-A352-E40C5B429485",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FCBB540C-FE09-4719-91CF-D44118FD0B2C",
+    "guides": [
+      520,
+      970,
+      938
+    ]
+  }
+}

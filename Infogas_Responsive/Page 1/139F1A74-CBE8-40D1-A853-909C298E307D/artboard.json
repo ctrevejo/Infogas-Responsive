@@ -1,0 +1,162 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C3A4F15A-6500-437D-87D4-A1257A71047B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "139F1A74-CBE8-40D1-A853-909C298E307D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83E94C21-05A7-4636-8B1C-F934C8A8BC8D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B97E5F14-A156-4826-93DC-7482AFDB67EC",
+    "height": 768,
+    "width": 320,
+    "x": 280,
+    "y": 19072
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E988DFA-6AE2-45A2-B1DE-76E0E3C4EC58",
+    "guides": [
+      14,
+      307,
+      42
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D71CF9B8-F94A-43F5-894B-833FBAD84251"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B9ADA67-7D93-40CF-9B31-A518C247DC76"
+    },
+    {
+      "class": "bitmap",
+      "id": "62F08D9B-A62F-47FE-A233-3E455C3BB766"
+    },
+    {
+      "class": "bitmap",
+      "id": "09894486-5B90-49AB-8C81-BDA5E4A0A659"
+    },
+    {
+      "class": "group",
+      "id": "0959C35B-473A-4208-9E9F-066266B11663"
+    },
+    {
+      "class": "bitmap",
+      "id": "9496126B-D717-428A-BDFC-86B6DFDF8C91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A979DEEC-1909-4273-83D7-0BDFFE7E7B57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72C107D5-F07D-4F5D-9BD2-0FF193DB11F0"
+    },
+    {
+      "class": "text",
+      "id": "4A1E3708-B982-4B18-8DCE-3D526C46BD38"
+    },
+    {
+      "class": "rectangle",
+      "id": "34E08C76-EB89-4DB6-979E-92C15A22231C"
+    },
+    {
+      "class": "text",
+      "id": "27C7BB7F-E460-482E-88EE-D39219ED15B8"
+    },
+    {
+      "class": "text",
+      "id": "8B3E1653-4E16-46E4-8586-D7E34059DD22"
+    },
+    {
+      "class": "group",
+      "id": "B51D3527-DFA8-4BB3-810F-E48827C65918"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C81BAD4B-1C77-4699-801C-EB3C9EB87918"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EF9FB48-3A5A-4DF7-8722-F013ED7D2FEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "621B17AA-A5D0-47DA-B18A-25045C082D21"
+    }
+  ],
+  "name": "MANUAL DE BUENAS PRÁCTICAS",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F31AFD-7420-4288-9D3F-4526BDCE7382",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF7D1A24-7BA2-4722-AED2-317CC8EB4942",
+    "guides": [
+      520,
+      970,
+      938
+    ]
+  }
+}

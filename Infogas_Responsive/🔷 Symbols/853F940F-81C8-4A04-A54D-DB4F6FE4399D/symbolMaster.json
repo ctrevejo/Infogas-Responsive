@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F48664AA-E7F3-4242-AB4F-15FF66693B22",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 20716,
+  "clippingMaskMode": 0,
+  "do_objectID": "853F940F-81C8-4A04-A54D-DB4F6FE4399D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAA2CDC2-66A4-4568-8E92-6F534FE1682B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "699ACF07-CEC7-4B05-B9CA-1B9ABD69E2EB",
+    "height": 144,
+    "width": 144,
+    "x": 100,
+    "y": 3660
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "61B6A562-2621-417F-A14D-0B6608617ECA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "77632F3E-AF74-48A3-8F43-4ADAE4AA8F5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D4E6301-739E-407D-B0B3-211AFC7E655D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D15F904A-F1A6-4000-9408-8B9BC3D3EDBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5452FC74-8D1D-408C-A83B-7562F1362EA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E53B2BF6-77C3-4AF3-9D7E-656FC2B98411"
+    }
+  ],
+  "name": "Icons/Line/estadística",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D434EF8-1756-4D14-8D17-8C48CC87CFC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C78E104D-D633-4B87-BD0F-0A89E72CD86A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "443F18FA-A252-4CBD-84A9-4ED40C533F1D",
+    "guides": [
+    ]
+  }
+}

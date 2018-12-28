@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25A528F0-D677-415C-A4DC-F3F3877E2493",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35B84F7C-456D-4DFD-83B4-7C1289E820D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFC309B1-A682-43FC-8246-665BC481537C",
+    "height": 55,
+    "width": 280,
+    "x": 20,
+    "y": 921
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Infogas/Links",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC62B071-FC9C-4859-88C0-11341C6A2486",
+      "overrideName": "E49DA7B6-8ACF-420D-817B-9621FF79FA63/55494709-25A3-4693-A70B-DF6EFA7F5901_layerStyle",
+      "value": "93A612C6-02B2-494F-969C-B1197D60B893"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB1C9DF3-BDE8-466B-8B69-7317956C72C6",
+      "overrideName": "67CF1003-66C8-478E-8E36-79CEEB685823_stringValue",
+      "value": "Encuentra el taller más cercano a ti."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA1C1391-4EA2-400B-8588-CB5D3EE785E3",
+      "overrideName": "E49DA7B6-8ACF-420D-817B-9621FF79FA63/1EB256F9-B3AF-44D2-953F-688058B00081_layerStyle",
+      "value": "93A612C6-02B2-494F-969C-B1197D60B893"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07150557-F73D-462B-817E-518061E8FF0C",
+      "overrideName": "53F03C81-ED7A-4A72-BF8D-896F3D2550D6_stringValue",
+      "value": "Lorem ipsum dolor sit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73462E92-4834-43E3-A8A7-1A5F8702FC81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3CDB3DE4-5DF9-465C-8F18-4C062E46468B",
+  "verticalSpacing": 0
+}

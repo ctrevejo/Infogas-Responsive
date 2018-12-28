@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3386DF38-AB69-41D7-BF31-765DC15CACF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AA8A280-7126-48F7-BA06-740D0A1109FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D24C05D6-BFF1-42E3-8BBB-A840D0C43526",
+    "height": 50,
+    "width": 280,
+    "x": 20,
+    "y": 434
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "506B91F6-1B94-4C51-98D0-248667D99219",
+      "overrideName": "B1CFDC7D-8F39-4BC1-8BDE-CDF706ED8EB7_stringValue",
+      "value": "Tipo ABC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFD09306-844C-466E-87DF-D15382879EAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29003ABB-C7A9-4D2A-863E-698A83AF48A1",
+  "verticalSpacing": 0
+}

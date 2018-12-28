@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69124BD5-257B-4FB7-8158-66998105B6A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E21AA6A7-0C4C-46F4-9F89-8801EC6F159B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B08C2065-F4F9-495D-B8E4-2A75E8C8C3D7",
+    "height": 135.807285106383,
+    "width": 135.807285106383,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1159CD30-E2D8-4B0A-8379-F99E9A097F31"
+    },
+    {
+      "class": "shapePath",
+      "id": "5856256C-6A74-4676-9980-AA785018745B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D76FC8CE-EA20-4FA7-A495-D7227ADC7EF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "ABFA0EED-3933-46E5-8DC5-5515E5F3582E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2041128-2747-4ED8-8EB4-BDF184628C72"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05C272B1-999B-4187-8855-EFAA2380C050"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "CBDF43FC-7B99-4C05-8881-7059D6408D3F",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "D245619C-B120-4C0F-9041-2535780DFCD4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.34,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

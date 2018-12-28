@@ -1,0 +1,128 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6BAFD387-45E4-4352-AE03-9DE43D5EE9A2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 11283,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EEFBF13-F792-4D02-A072-07DA6C7C89C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E088C598-DC2D-428A-9750-4684E0EE41CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F731B55-834B-4113-AE37-DB3B1597B08E",
+    "height": 370,
+    "width": 1440,
+    "x": 1182,
+    "y": -378
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "26316D69-7340-4334-B5FA-317BEAF2FE56",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D7748AB3-B99F-4EAF-95C6-2B6D43BE4F25",
+    "guides": [
+      110,
+      1330
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "217A5F77-05AF-4045-B947-F177F060582A"
+    },
+    {
+      "class": "group",
+      "id": "E03CC3EE-6E1A-4633-91B1-810A892D48C3"
+    },
+    {
+      "class": "group",
+      "id": "80FB9E40-957A-4B46-98B8-178C92241C4C"
+    },
+    {
+      "class": "text",
+      "id": "3F6D940F-B92C-4386-8AA1-93C65A444274"
+    },
+    {
+      "class": "group",
+      "id": "C12E0E06-03DA-402A-A7E6-6453B3EF270D"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C15A8D7-C050-47BF-939D-90206C11A9D2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "1B506BCF-FB8F-4568-85DE-6C77153D5AF4",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 65,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Footer",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "412C3333-C0FB-4762-B076-7D96CAF51798",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98611758-B9D0-49BF-9FD6-100206D88945",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "964F0395-4C1C-4465-953A-B074F135FAED",
+    "guides": [
+    ]
+  }
+}

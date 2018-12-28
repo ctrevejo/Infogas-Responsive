@@ -1,0 +1,127 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4023DB78-0127-4203-990C-4D771BF79F0C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 19773,
+  "clippingMaskMode": 0,
+  "do_objectID": "D55FD897-5355-4FE8-86D8-ED639DF14B6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44020031-D4CC-41BF-8F79-A586741D9A07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7656B036-F589-4690-B035-A7DFBE356A53",
+    "height": 700,
+    "width": 320,
+    "x": -10802,
+    "y": 2658
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0511A080-14EF-4FCB-BB73-DC85B9A70EDE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DBB1DEE9-6B45-4DBE-9E24-0AA90F3B13BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "1305905C-B012-476B-9A0D-1323947851C3"
+    },
+    {
+      "class": "text",
+      "id": "4461F39F-E34C-4CE5-BDB2-2CDDC31B7189"
+    },
+    {
+      "class": "text",
+      "id": "0416F6A1-7A71-4229-92AC-BEC9E2FDCA73"
+    },
+    {
+      "class": "group",
+      "id": "29D51E58-066F-480A-965D-4B652E1AF08E"
+    },
+    {
+      "class": "group",
+      "id": "CFC3C6F7-67DB-4035-86E2-4D3C3B260015"
+    },
+    {
+      "class": "group",
+      "id": "E3350004-9076-4C3C-866F-768907B6F61B"
+    },
+    {
+      "class": "group",
+      "id": "DD4B1B58-F69E-49D0-AA0B-83C8EE70ED34"
+    },
+    {
+      "class": "group",
+      "id": "41DE388A-B31A-4BC5-B402-B6A82BC258AF"
+    },
+    {
+      "class": "group",
+      "id": "21A20C84-DBFE-4B05-A9B9-14F6FD5F876E"
+    },
+    {
+      "class": "group",
+      "id": "74571141-6EB6-43E1-A375-612EF555D801"
+    },
+    {
+      "class": "group",
+      "id": "23AB3220-A9AB-4842-B3BD-9F8139B63BF9"
+    }
+  ],
+  "name": "Control/Search Entity/Grifo/Cerca a mi/Mapa - Resultados",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A75D74E4-8A6E-4592-9414-9FB7AE764DB0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBC38937-6FAD-4247-801E-70E9B9A6F083",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "65FD3094-6196-473B-A869-54D2798459EA",
+    "guides": [
+    ]
+  }
+}
